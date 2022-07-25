@@ -18,3 +18,6 @@ When I am not mastering JavaScript I like to:
 
 ## Here are some funny programmer Jokes I don't really understand yet, but I hope someday I will
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
