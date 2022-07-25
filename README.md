@@ -1,16 +1,17 @@
-# Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**nikstaaar/nikstaaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![dolphin](https://giffiles.alphacoders.com/880/8802.gif)
 
-Here are some ideas to get you started:
+I am student at [neuefische](https://neue-fische.de/) trying to figure out web-development. I am getting better each day (hopefully lol)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I am not mastering JavaScript I like to:
+
+- 🐶 walk my dog Paula
+- 🍸 mix cocktails
+- 😎 hang out with friends
+- ✈️ travel the world
+- 👨‍🍳 cook delicious food
+- ⛵ learn how to sail a boat
+- 🏃 run
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
