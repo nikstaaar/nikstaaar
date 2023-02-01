@@ -2,7 +2,7 @@
 
 ![dolphin](https://giffiles.alphacoders.com/880/8802.gif)
 
-I am student at [neuefische](https://neue-fische.de/) trying to figure out web-development. I am getting better each day (hopefully)
+I am an alumni at [neuefische](https://neue-fische.de/) web-dev bootcamp looking for a new challenge. I am getting better each day (hopefully)
 
 When I am not mastering JavaScript I like to:
 
@@ -16,8 +16,5 @@ When I am not mastering JavaScript I like to:
 
 
 
-##### Here are some funny programmer Jokes I don't really understand yet, but I hope someday I will
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-##### My many visitors:
-![Visitor Count](https://profile-counter.glitch.me/{nikstaaar}/count.svg)
+![Jokes Card](https://readme-jokes.vercel.app/api)
