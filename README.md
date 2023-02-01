@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-![dolphin](https://giffiles.alphacoders.com/880/8802.gif)
+
 
 I am an alumni at [neuefische](https://neue-fische.de/) web-dev bootcamp looking for a new challenge. I am getting better each day (hopefully)
 
