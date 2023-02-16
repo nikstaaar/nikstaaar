@@ -2,7 +2,8 @@
 
 
 
-I am an alumni at [neuefische](https://neue-fische.de/) web-dev bootcamp looking for a new challenge. I am getting better each day (hopefully)
+I am an alumni at [neuefische](https://neue-fische.de/) web-dev bootcamp looking for a new challenge. 
+
 
 When I am not mastering JavaScript I like to:
 
