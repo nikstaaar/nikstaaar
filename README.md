@@ -14,8 +14,3 @@ When I am not mastering JavaScript I like to:
 - 👨‍🍳 cook delicious food
 - ⛵ learn how to sail a boat
 - 🏃 run
-
-
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
